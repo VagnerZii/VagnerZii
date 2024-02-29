@@ -32,6 +32,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 )](https://www.tiktok.com/@vagner_ack?lang=pt-BR)
 
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
+)](https://replit.com/@vagnerpereiraju)
+
 ## Meu lazer 😎
 
 [![Músicas](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
