@@ -2,7 +2,7 @@
 
 ![Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight)
 
-## Tecnologias que pratico
+## Tecnologias que pratico 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
@@ -21,7 +21,7 @@
      />
 </div><br/>
 
-## Meu lazer
+## Meu lazer 😎
 
 [![Músicas](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/24lq0p6vsrdvbomuhgtwmxivy)
@@ -30,7 +30,7 @@
 )](https://steamcommunity.com/profiles/76561199037665251/)
 
 
-## Contatos
+## Contatos 📮
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox)
