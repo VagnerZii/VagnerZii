@@ -1,14 +1,6 @@
-___
 ### Olá! Me chamo Vagner e é uma honra você estar visitando meu humilde perfil. 👻
 
 ![Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight)
-
-
-Sou um grande entusiasta na tecnologia e procuro evoluir constantemente. 
-Desde jovem, era fascinado na área de desenvolvimento de jogos digitais. 
-No entanto, à medida que mergulhei mais fundo no vasto universo da tecnologia, descobri novas paixões e oportunidades.
-Hoje, exploro várias áreas variadas e pretendo alcançar a experiência necessária para atuar no mercado de trabalho.
-___
 
 ## Tecnologias que pratico
 
@@ -25,6 +17,8 @@ ___
      />
     <img align="center" alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
      />
+     <img align="center" alt="SQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+     />
 </div><br/>
 
 ## Meu lazer
@@ -36,7 +30,7 @@ ___
 )](https://steamcommunity.com/profiles/76561199037665251/)
 
 
-## Meus Contatos
+## Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox)
