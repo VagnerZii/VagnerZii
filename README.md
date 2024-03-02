@@ -1,4 +1,8 @@
-### Olá! Me chamo Vagner e é uma honra você estar visitando meu humilde perfil. 👻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ebfe2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34f4d3=64&center=true&Center=true&width=1000&lines=Hello!++My+name+is+Vagner+Pereira+👻;I'm+a+systems+analysis+and+development+student)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=171618&color=39aec6&line=7519d2&point=8168df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <a href="https://beaccons.ai/vagnerzii">
@@ -6,7 +10,7 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&langs_count=16&theme=tokyonight"/>"
  </div>
 
-## Tecnologias em prática 💻
+## Tecnologias estudadas no momento 💻
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql)](https://skillicons.dev)
 
@@ -14,13 +18,6 @@
 
 [![E-mail](https://img.shields.io/badge/E--mail-vagnerpereira.junior18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vagnerpereira.junior18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
-
-## Apenas por diversão 😎
-
-[![Músicas](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)](https://open.spotify.com/user/24lq0p6vsrdvbomuhgtwmxivy)
-[![Jogos](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-)](https://steamcommunity.com/profiles/76561199037665251/)
 
 ## Meu Primeiro Jogo 🎮
 
@@ -45,6 +42,4 @@ Divirta-se jogando! 🚀
 
 ![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
 
-![Snake animation](https://github.com/vagnerzii/vagnerzii/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=vagnerzii&repo=vagnerzii&theme=react)](https://github.com/vagnerzii/vagnerzii)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ebfe2&height=120&section=footer"/>
