@@ -38,11 +38,16 @@
 
 Um jogo da memória desenvolvido através de HTML, CSS e JavaScript.
 
+### Capturas de Tela
+
+![Screenshot 1](https://github.com/VagnerZii/VagnerZii/assets/159857871/4ce41041-b524-4cd0-a898-aa6e4e21efd3)
+![Screenshot 2]()
+
 ### Como Jogar
 
 A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
  
-[Jogo](https://vagnerzii.github.io/memory-game/)
+[O Jogo](https://vagnerzii.github.io/memory-game/)
 
 Divirta-se jogando! 🚀
 
