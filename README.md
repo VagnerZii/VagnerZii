@@ -41,16 +41,11 @@
 [![Jogos](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/profiles/76561199037665251/)
 
-## Meu Jogo 🎮
+## Meu Primeiro Jogo 🎮
 
-Eu desenvolvi um jogo da memória super simples e prático de se jogar.
+### Descrição
 
-### Capturas de Tela
-
-Aqui estão algumas capturas de tela do jogo:
-
-![Captura de Tela 1](jogo.png)
-![Captura de Tela 2](jogo.png)
+Um jogo da memória desenvolvido através de HTML, CSS e JavaScript.
 
 ### Como Jogar
 
