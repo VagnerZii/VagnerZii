@@ -24,6 +24,7 @@
 ## Contato 📧
 
 [![E-mail](https://img.shields.io/badge/E--mail-vagnerpereira.junior18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vagnerpereira.junior18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
 
 ## Apenas por diversão 😎
 
