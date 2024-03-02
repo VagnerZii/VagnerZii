@@ -36,7 +36,7 @@
 
 ### Descrição
 
-Um jogo da memória desenvolvido através de HTML, CSS e JavaScript.
+Um jogo da memória desenvolvido em HTML, CSS e JavaScript.
 
 ### Capturas de Tela
 
