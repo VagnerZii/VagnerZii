@@ -43,20 +43,20 @@
 
 ## Meu Jogo 🎮
 
-Eu desenvolvi um jogo da memória com o tema do jogo UNDERTALE.
+Eu desenvolvi um jogo da memória super simples e prático de se jogar.
 
 ### Capturas de Tela
 
 Aqui estão algumas capturas de tela do jogo:
 
-![Captura de Tela 1](https://imgur.com/jMGC2Iw)
-![Captura de Tela 2](https://imgur.com/h2WKNfg)
+![Captura de Tela 1](jogo.png)
+![Captura de Tela 2](jogo.png)
 
 ### Como Jogar
 
-Se você quiser experimentar o jogo, você pode encontrar o repositório e as instruções de como jogar aqui:
-
-[Repositório do Jogo](https://github.com/VagnerZii/memory-game)
+A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
+ 
+[Jogo](https://vagnerzii.github.io/memory-game/)
 
 Divirta-se jogando! 🚀
 
