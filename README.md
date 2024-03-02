@@ -33,6 +33,8 @@
 )](https://instagram.com/vaagner_zii)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
 )](https://replit.com/@vagnerpereiraju)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+)](https://discord.com/channels/@me)
 
 ## Meu lazer 😎
 
