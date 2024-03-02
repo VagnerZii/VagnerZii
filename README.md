@@ -13,16 +13,17 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=true&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
 </div>
 
-## Tecnologias estudadas no momento 💻
+## *Tecnologias estudadas no momento* 💻
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql)](https://skillicons.dev)
 
-## Contato 📧
+## *Contato* 📧
 
-[![E-mail](https://img.shields.io/badge/E--mail-vagnerpereira.junior18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vagnerpereira.junior18@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnerpereira.junior18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaagner_zii/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
 
-## Meu Primeiro Jogo 🎮
+## *Meu Primeiro Jogo* 🎮
 
 ### Descrição
 
