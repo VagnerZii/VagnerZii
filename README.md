@@ -4,11 +4,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=171618&color=39aec6&line=7519d2&point=8168df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-  <a href="https://beaccons.ai/vagnerzii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&langs_count=16&theme=tokyonight"/>"
- </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=true&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="Vagner Pereira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=true&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
+</div>
 
 ## Tecnologias estudadas no momento 💻
 
