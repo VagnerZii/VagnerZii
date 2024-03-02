@@ -2,7 +2,7 @@
 
 ![Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight)
 
-## Tecnologias que pratico 💻
+## Tecnologias em prática 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
