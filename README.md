@@ -46,3 +46,4 @@ A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
 
 Divirta-se jogando! 🚀
 
+![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
