@@ -25,14 +25,7 @@
 
 [![E-mail](https://img.shields.io/badge/E--mail-vagnerpereira.junior18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vagnerpereira.junior18@gmail.com)
 
-## Sociais 📱
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/acker_zi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/vaagner_zii)
-
-## Meu lazer 😎
+## Apenas por diversão 😎
 
 [![Músicas](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/24lq0p6vsrdvbomuhgtwmxivy)
