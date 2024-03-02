@@ -40,8 +40,10 @@ Um jogo da memória desenvolvido através de HTML, CSS e JavaScript.
 
 ### Capturas de Tela
 
-![Screenshot 1](https://github.com/VagnerZii/VagnerZii/assets/159857871/4ce41041-b524-4cd0-a898-aa6e4e21efd3)
-![Screenshot 2]()
+#### Captura de Tela 1
+![Screenshot 1](https://github.com/VagnerZii/VagnerZii/assets/159857871/8607242c-2832-4a59-ac0d-dd712274163b)
+#### Captura de Tela 2
+![Screenshot 2](https://github.com/VagnerZii/VagnerZii/assets/159857871/3b94eaea-7492-4595-8025-a1025e3e6f84)
 
 ### Como Jogar
 
