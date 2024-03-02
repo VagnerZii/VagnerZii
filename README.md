@@ -1,10 +1,14 @@
 ### Olá! Me chamo Vagner e é uma honra você estar visitando meu humilde perfil. 👻
 
-![Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight)
+<div>
+  <a href="https://beaccons.ai/vagnerzii">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&langs_count=16&theme=tokyonight"/>"
+ </div>
 
 ## Tecnologias em prática 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql)](https://skillicons.dev)
 
 ## Contato 📧
 
