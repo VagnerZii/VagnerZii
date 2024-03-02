@@ -31,10 +31,6 @@
 )](https://twitter.com/acker_zi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/vaagner_zii)
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
-)](https://replit.com/@vagnerpereiraju)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-)](https://discord.com/channels/@me)
 
 ## Meu lazer 😎
 
