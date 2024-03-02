@@ -21,17 +21,16 @@
      />
 </div><br/>
 
+## Contato 📧
+
+[![E-mail](https://img.shields.io/badge/E--mail-vagnerpereira.junior18%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vagnerpereira.junior18@gmail.com)
+
 ## Sociais 📱
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/acker_zi)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/vaagner_zii)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-)](https://www.tiktok.com/@vagner_ack?lang=pt-BR)
-
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
 )](https://replit.com/@vagnerpereiraju)
 
@@ -39,6 +38,5 @@
 
 [![Músicas](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/24lq0p6vsrdvbomuhgtwmxivy)
-
 [![Jogos](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/profiles/76561199037665251/)
