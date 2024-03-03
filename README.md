@@ -40,9 +40,10 @@ Um jogo da memória desenvolvido em HTML, CSS e JavaScript.
 
 A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
  
-[O Jogo](https://vagnerzii.github.io/memory-game/)
+[Memory Game: UNDERTALE](https://vagnerzii.github.io/memory-game/) 
 
-Divirta-se jogando! 🚀
+Divirta-se 🚀
+
 
 ![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
 
