@@ -31,9 +31,9 @@ Um jogo da memória desenvolvido em HTML, CSS e JavaScript.
 
 ### Capturas de Tela
 
-#### Captura de Tela 1
+#### Tela de login: aqui você deve preencher o campo com seu usuário.
 ![Screenshot 1](https://github.com/VagnerZii/VagnerZii/assets/159857871/8607242c-2832-4a59-ac0d-dd712274163b)
-#### Captura de Tela 2
+#### Tela do jogo: apenas tenha uma boa memória e boa sorte.
 ![Screenshot 2](https://github.com/VagnerZii/VagnerZii/assets/159857871/3b94eaea-7492-4595-8025-a1025e3e6f84)
 
 ### Como Jogar
