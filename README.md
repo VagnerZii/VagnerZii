@@ -20,12 +20,12 @@
 
 ## *Tecnologias estudadas no momento* 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs&theme=light)](https://skillicons.dev)
 
 ## *Contato* 📧
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnerpereira.junior18@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaagner_zii/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaagner_zii/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
 
 ## *Meu Primeiro Jogo* 🎮
