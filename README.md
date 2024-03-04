@@ -24,9 +24,9 @@
 
 ## *Contato* 📧
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnerpereira.junior18@gmail.com)
+[![E-mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:vagnerpereira.junior18@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaagner_zii/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
 
 ## *Meu Primeiro Jogo* 🎮
 
