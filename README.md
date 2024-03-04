@@ -20,7 +20,7 @@
 
 ## *Tecnologias estudadas no momento* 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs)](https://skillicons.dev)
 
 ## *Contato* 📧
 
