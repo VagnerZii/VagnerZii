@@ -1,17 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa050b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!++My+name+is+Vagner+Pereira+👻;I'm+a+systems+analysis+and+development+student;It's+a+pleasure+that+you're+visiting+my+humble+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Vagner+Pereira+👻;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;É+um+prazer+que+esteja+visitando+meu+humilde+perfil+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=171618&color=39aec6&line=7519d2&point=8168df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=020413&color=39aec6&line=9c307c&point=29285f&area=true&hide_border=27b0bc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=true&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="Vagner Pereira github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=true&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
+<div align="left">  
+  <img width="43%" height="198px" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=27b0bc&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="Vagner Pereira github stats" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=020413&column=3&margin-w=15&margin-h=25" />
+  <img width="38%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=27b0bc&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ## *Tecnologias estudadas no momento* 💻
 
@@ -47,4 +44,4 @@ Divirta-se 🚀
 
 ![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa050b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=footer"/>
