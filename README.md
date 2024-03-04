@@ -6,7 +6,7 @@
 
 <div align="left">  
   <img width="43%" height="198px" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=27b0bc&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="Vagner Pereira github stats" />
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=020413&column=4&margin-w=15&margin-h=25" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=020413&column=3&margin-w=15&margin-h=25" />
   <img width="38%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=27b0bc&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
 </div>
 
