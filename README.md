@@ -1,17 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Vagner+Pereira+👻;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;É+um+prazer+que+esteja+visitando+meu+humilde+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+Pereira+👻;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=020413&color=39aec6&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <div style="width:100%;  display: flex; flex-flow: row wrap;" >  
   
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="GitHub Stats for vagnerzii">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="GitHub Stats for vagnerzii">
   
   <p style="display: flex; margin-top: 2%;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=false&border_color=4169E1&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=020413&column=3&margin-w=15&margin-h=25" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=false&border_color=4169E1&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
+    
   </p>
  
 </div>
@@ -20,7 +22,7 @@
 
 ## *Tecnologias estudadas no momento* 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs,&theme=light)](https://skillicons.dev)
 
 ## *Contato* 📧
 
