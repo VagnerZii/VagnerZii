@@ -20,9 +20,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
-## *Tecnologias estudadas no momento* 💻
+## *Skills* 🌟
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,mysql,cs,&theme=light)](https://skillicons.dev)
+### Programming languages ​​currently studied 👨‍💻:
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,cpp&theme=light)](https://skillicons.dev)
+
+### Development Tools 🛠:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,replit&theme=dark)](https://skillicons.dev)
+
+### Other technologies I use 💻:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql&theme=light)](https://skillicons.dev)
 
 ## *Contato* 📧
 
@@ -30,26 +40,26 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaagner_zii/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vagner-pereira-44a22a2b5/)
 
-## *Meu Primeiro Jogo* 🎮
+## *My First Game* 🎮
 
-### Descrição
+### Description
 
-Um jogo da memória desenvolvido em HTML, CSS e JavaScript.
+#### A Memory Game developed in HTML, CSS and JavaScript
 
-### Capturas de Tela
+### Screenshots
 
-#### Tela de login: aqui você deve preencher o campo com seu usuário.
+#### Login Screen: here you must fill in the field with your username.
 ![Screenshot 1](https://github.com/VagnerZii/VagnerZii/assets/159857871/8607242c-2832-4a59-ac0d-dd712274163b)
-#### Tela do jogo: apenas tenha uma boa memória e boa sorte.
+#### Game Screen: just have a good memory and good luck.
 ![Screenshot 2](https://github.com/VagnerZii/VagnerZii/assets/159857871/3b94eaea-7492-4595-8025-a1025e3e6f84)
 
-### Como Jogar
+### How To Play
 
-A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
+#### The rule is for the player to turn over all the cards in the best time possible.
  
 [Memory Game: UNDERTALE](https://vagnerzii.github.io/memory-game/) 
 
-Divirta-se 🚀
+Have fun 🚀
 
 ![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
 
