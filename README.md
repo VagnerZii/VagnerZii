@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+Pereira+👻;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
 
@@ -6,19 +7,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=020413&color=39aec6&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-<div style="width:100%;  display: flex; flex-flow: row wrap;" >  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=false&border_radius=3&border_color=4169E1&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="GitHub Stats for vagnerzii">
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="GitHub Stats for vagnerzii">
-  
-  <p style="display: flex; margin-top: 2%;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=false&border_color=4169E1&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
-    
-  </p>
- 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=false&border_color=4169E1&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
 </div>
- 
-<br>
+
+<div align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
 
 ## *Tecnologias estudadas no momento* 💻
 
@@ -51,7 +51,7 @@ A regra consiste no jogador virar todas as cartas no melhor tempo que puder.
 
 Divirta-se 🚀
 
-
 ![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=footer"/>
