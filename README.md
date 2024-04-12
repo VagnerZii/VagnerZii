@@ -28,7 +28,7 @@
 
 ### Development Tools 🛠:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,replit&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,replit,idea&theme=dark)](https://skillicons.dev)
 
 ### Other technologies I use 💻:
 
