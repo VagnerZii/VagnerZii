@@ -34,7 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql&theme=light)](https://skillicons.dev)
 
-## *Contato* 📧
+## *Contact* 📧
 
 [![E-mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:vagnerpereira.junior18@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaagner_zii/)
