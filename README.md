@@ -61,7 +61,8 @@
 
 Have fun 🚀
 
-![coffee-anime](https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1)
-
+<div align="center">
+  <img src="https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1" alt="coffee-anime" width="67%">
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=footer"/>
