@@ -32,7 +32,7 @@
 
 ### Other technologies I use 💻:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,cs&theme=light)](https://skillicons.dev)
 
 ## *Contact* 📧
 
