@@ -24,16 +24,16 @@
 
 ### Programming languages ​​currently studied 👨‍💻:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,cpp&theme=light)]
 
 ### Development Tools 🛠:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,postgresql&theme=dark)]
 [![Replit](https://skillicons.dev/icons?i=replit&theme=dark)](https://replit.com/@vagnerpereiraju)
 
 ### Other technologies I use 💻:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,cs&theme=light)]
 
 ## *Contact* 📧
 
