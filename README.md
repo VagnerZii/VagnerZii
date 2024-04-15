@@ -28,7 +28,8 @@
 
 ### Development Tools 🛠:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,replit,postgresql&theme=dark)](https://replit.com/@vagnerpereiraju)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,postgresql&theme=dark)](https://skillicons.dev)
+[![Replit](https://skillicons.dev/icons?i=replit&theme=dark)](https://replit.com/@vagnerpereiraju)
 
 ### Other technologies I use 💻:
 
