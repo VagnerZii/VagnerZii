@@ -1,9 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=header"/>
-
+![81bb4b165684019 640b6038d133e_online-video-cutter com](https://github.com/VagnerZii/VagnerZii/assets/159857871/a703389b-7054-482b-8752-ac87c62fb877)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+Pereira+👻;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=020413&color=39aec6&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -11,13 +9,6 @@
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=vagnerzii&show_icons=true&count_private=true&hide_border=false&border_radius=3&border_color=4169E1&title_color=34e9f4&icon_color=6b66e1&text_color=ff4dc1&bg_color=020413" alt="GitHub Stats for vagnerzii">
   
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerzii&layout=compact&hide_border=false&border_color=4169E1&title_color=34e9f4&text_color=ff4dc1&bg_color=020413" />
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vagnerzii&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ## *Skills* 🌟
@@ -65,5 +56,3 @@ Have fun 🚀
 <div align="center">
   <img src="https://github.com/VagnerZii/VagnerZii/assets/159857871/b0fa4072-a328-4ac9-9b59-cfd30b5a00c1" alt="coffee-anime" width="67%">
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a7b3&height=120&section=footer"/>
