@@ -1,5 +1,5 @@
-![81bb4b165684019 640b6038d133e_online-video-cutter com](https://github.com/VagnerZii/VagnerZii/assets/159857871/a703389b-7054-482b-8752-ac87c62fb877)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+![81bb4b165684019.640b6038d133e (online-video-cutter.com).gif](https://github.com/VagnerZii/VagnerZii/assets/159857871/e3ac47a0-a87e-4095-9546-9c6680ba1c9e
+ src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+Pereira+👻;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
 
