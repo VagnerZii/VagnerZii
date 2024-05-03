@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+Pereira+👻;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vagner+👻;I'm+19+years+old;I+am+a+Systems+Analysis+and+Development+student;+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vagnerzii&bg_color=020413&color=39aec6&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
