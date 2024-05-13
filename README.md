@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/VagnerZii/VagnerZii/assets/159857871/e4eeaf20-7137-485e-8d59-95ddd0c4d2c4" width="97%">
+  <img src="https://github.com/VagnerZii/VagnerZii/assets/159857871/e83767c2-3618-4a89-94b1-eb472b96b06d" width="101%">
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
