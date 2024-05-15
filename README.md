@@ -18,7 +18,7 @@
 
 ### Programming languages ​​currently studied 👨‍💻:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,ruby&theme=light)](https://skillicons.dev)
 
 ### Development Tools 🛠:
 
